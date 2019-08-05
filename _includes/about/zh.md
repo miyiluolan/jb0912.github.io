@@ -39,12 +39,6 @@
 
 See You Again
 
----
-
-![hexo_about_me_logo](https://cdn.oss.link/markdown/hexo_about_me_logo.jpg)
-
----
-
 <audio  autoplay="autoplay">
   <source src="https://cdn.oss.link/markdown/music_see_you_again.mp3" type="audio/mpeg" />
 Your browser does not support the audio element.
