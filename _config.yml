@@ -1,8 +1,8 @@
 # Site settings
-title: 漠然 
-SEOTitle: 漠然的博客 | mritd Blog
+title: 蜜意罗兰
+SEOTitle: 蜜意罗兰的博客 | miyiluolan Blog
 header-img: img/home-bg.jpg
-email: mritd@linux.com
+email: miyiluolan@java.com
 description: "Nothing is impossible to a willing heart!"
 keyword: "漠然, 漠然的博客, mritd, Docker, Kubernetes, @mritd, mritd blog, 博客, 个人网站, Java, Web"
 url: "https://mritd.me"              # your host, for absolute URL
@@ -14,8 +14,8 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: true
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    mritd
-telegram_username:  mritd
+github_username:    miyiluolan
+telegram_username:  miyiluolan
 twitter_username:   mritd1234
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
