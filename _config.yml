@@ -4,8 +4,8 @@ SEOTitle: 蜜意罗兰的博客 | miyiluolan Blog
 header-img: img/home-bg.jpg
 email: miyiluolan@java.com
 description: "Nothing is impossible to a willing heart!"
-keyword: "漠然, 漠然的博客, mritd, Docker, Kubernetes, @mritd, mritd blog, 博客, 个人网站, Java, Web"
-url: "https://mritd.me"              # your host, for absolute URL
+keyword: "蜜意罗兰, 蜜意罗兰的博客, miyiluolan, Docker, Kubernetes, miyiluolan blog, 博客, 个人网站, Java, Web"
+url: "https://jb0912.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
